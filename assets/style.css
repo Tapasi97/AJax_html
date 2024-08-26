@@ -26,3 +26,8 @@ body {
   width: 100%;
   height: 50px;
 }
+
+#range-slider {
+  width: 350px;
+  margin-right: 15px;
+}
